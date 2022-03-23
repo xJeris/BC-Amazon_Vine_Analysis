@@ -6,7 +6,7 @@
 
 ## Results
 
-<p>Below is a summary of the analysis resuts. Showing the total reviews, number of 5-star reviews, and percent of 5-star reviews for both Vine and non-Vine reviews.</p>
+<p>Below is a summary of the analysis results. Showing the total reviews, number of 5-star reviews, and percent of 5-star reviews for both Vine and non-Vine reviews.</p>
 <img src="images/summary.png" width="371" alt="Summary data" />
 
 - There were 0 Vine reviews, and 1,685 non-Vine reviews.
